@@ -1,1 +1,1 @@
-Testing how git is working
+Testing how git works
